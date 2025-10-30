@@ -150,7 +150,6 @@ span{
 
 .home-img img{
     position: relative;
-    width: 16vw;
     height: 200px;
     
     object-fit: cover; /* Ensures the image fills the circle without distortion */
@@ -640,5 +639,6 @@ button:hover {
 
 html {
   scroll-behavior: smooth;}
+
 
 
